@@ -14,8 +14,8 @@
 
 ## Requirements
 
-- Docker
-- Docker Compose
+- [Docker](https://www.docker.com/)
+- [Docker Compose](https://docs.docker.com/compose/)
 
 [Back to summary](#summary)
 
