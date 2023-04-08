@@ -1,0 +1,5 @@
+/node_modules
+/.local
+/.shrc
+/.cache
+/.ash_history
