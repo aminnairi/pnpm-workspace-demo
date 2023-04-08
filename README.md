@@ -43,6 +43,12 @@ docker compose exec node pnpm --parallel run dev
 docker compose exec node pnpm --parallel run build
 ```
 
+## Docker Compose Services Shutdown
+
+```bash
+docker compose down --remove-orphans --volumes --timeout 0
+```
+
 ## Endpoints
 
 Endpoint | Description
