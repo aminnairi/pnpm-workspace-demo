@@ -13,6 +13,12 @@ git clone https://github.com/aminnairi/pnpm-workspace-demo
 cd pnpm-workspace-demo
 ```
 
+## Docker Compose Build
+
+```bash
+docker compose build
+```
+
 ## Docker Compose Services Startup
 
 ```bash
