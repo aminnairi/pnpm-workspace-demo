@@ -36,3 +36,10 @@ docker compose exec node pnpm --parallel run dev
 ```bash
 docker compose exec node pnpm --parallel run build
 ```
+
+## Endpoints
+
+Endpoint | Description
+---|---
+[`localhost:8000`](http://localhost:8000) | Frontend
+[`localhost:9000`](http://localhost:9000) | Backend
